@@ -2,7 +2,7 @@ module github.com/katasec/remote-test
 
 go 1.19
 
-require github.com/katasec/pulumi-helper v0.1.0
+require github.com/katasec/pulumi-helper v0.1.2
 
 require (
 	github.com/blang/semver v3.5.1+incompatible // indirect
